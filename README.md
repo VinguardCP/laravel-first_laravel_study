@@ -3,22 +3,21 @@
 Este projeto foi desenvolvido como primeiro estudo prático utilizando o framework Laravel, com foco na construção de uma aplicação web simples baseada em CRUD.
 A aplicação consiste em um sistema de posts onde usuários autenticados podem criar, visualizar, editar e excluir publicações. Também contempla funcionalidades básicas de autenticação como login, cadastro e logout.
 
-<p align="center">
-Funcionalidades:
-Cadastro de usuários \n
-Autenticação (login e logout) \n
-Criação de posts \n
-Listagem de posts \n
-Edição de posts \n
-Exclusão de posts \n
-Tecnologias Utilizadas \n
-PHP \n
-Laravel \n
-MySQL \n
-Composer \n
-Artisan \n
-Estrutura do Projeto
-</p>
+
+Funcionalidades
+- Cadastro de usuários
+- Autenticação (login e logout)
+- Criação de posts
+- Listagem de posts
+- Edição de posts
+- Exclusão de posts
+- Tecnologias Utilizadas
+- PHP
+- Laravel
+- MySQL
+- Composer
+- Artisan
+- Estrutura do Projeto
 
 O projeto segue a arquitetura padrão do Laravel, utilizando o padrão MVC (Model-View-Controller), com separação entre lógica de negócio, interface e manipulação de dados.
 
