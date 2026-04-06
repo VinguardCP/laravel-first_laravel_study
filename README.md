@@ -5,19 +5,19 @@ A aplicação consiste em um sistema de posts onde usuários autenticados podem 
 
 <p align="center">
 Funcionalidades:
-Cadastro de usuários
-Autenticação (login e logout)
-Criação de posts
-Listagem de posts
-Edição de posts
-Exclusão de posts
-Tecnologias Utilizadas
-PHP
-Laravel
-MySQL
-Composer
-Artisan
-Estrutura do Projeto
+Cadastro de usuários;
+Autenticação (login e logout);
+Criação de posts;
+Listagem de posts;
+Edição de posts;
+Exclusão de posts;
+Tecnologias Utilizadas;
+PHP;
+Laravel;
+MySQL;
+Composer;
+Artisan;
+Estrutura do Projeto;
 </p>
 
 O projeto segue a arquitetura padrão do Laravel, utilizando o padrão MVC (Model-View-Controller), com separação entre lógica de negócio, interface e manipulação de dados.
