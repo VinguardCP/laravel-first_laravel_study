@@ -1,3 +1,35 @@
+## Sistema de Posts com Laravel
+
+Este projeto foi desenvolvido como primeiro estudo prático utilizando o framework Laravel, com foco na construção de uma aplicação web simples baseada em CRUD.
+A aplicação consiste em um sistema de posts onde usuários autenticados podem criar, visualizar, editar e excluir publicações. Também contempla funcionalidades básicas de autenticação como login, cadastro e logout.
+
+<p align="center">
+Funcionalidades:
+Cadastro de usuários
+Autenticação (login e logout)
+Criação de posts
+Listagem de posts
+Edição de posts
+Exclusão de posts
+Tecnologias Utilizadas
+PHP
+Laravel
+MySQL
+Composer
+Artisan
+Estrutura do Projeto
+</p>
+
+O projeto segue a arquitetura padrão do Laravel, utilizando o padrão MVC (Model-View-Controller), com separação entre lógica de negócio, interface e manipulação de dados.
+
+## Objetivo do Projeto
+Este projeto teve como objetivo consolidar os conhecimentos iniciais em desenvolvimento web com Laravel, incluindo:
+Estrutura MVC
+Rotas
+Controllers
+Autenticação
+Integração com banco de dados
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
